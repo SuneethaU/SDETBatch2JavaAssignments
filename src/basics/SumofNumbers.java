@@ -1,3 +1,7 @@
+//Program # 5'
+//Sum of first 10 numbers
+//Multiplication of first 10 Numbers
+
 package basics;
 
 public class SumofNumbers {
@@ -13,7 +17,7 @@ public class SumofNumbers {
 		for(int j=1;j<=10;j++) {
 			m=m*j;
 		}
-		System.out.println("Mul of 10 numbers is "+m);
+		System.out.println("Muliplication of 10 numbers is "+m);
 	}
 
 }
